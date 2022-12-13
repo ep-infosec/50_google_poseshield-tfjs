@@ -1,0 +1,56 @@
+{
+  "attract": {
+    "title": "Asteroid alert!",
+    "body": "Position your body within the<br>frame. Raise your arms above<br>your head to take control of<br>the shields."
+  },
+  "calibration": {
+    "title": "Arm the shields",
+    "body": "To continue,<br>activate all 7 shields<br>with your arms."
+  },
+  "error": {
+    "title": "Still there?",
+    "body": "Make sure your whole<br>body is in the frame, and<br>no one else is visible."
+  },
+  "no-video": {
+    "title": "Video Unavailable",
+    "body": "Camera access is required<br>to play this game. Please allow<br>camera access and refresh<br>this page."
+  },
+  "generic-error": {
+    "title": "Error Title",
+    "body": "A brief and friendly<br>description of the problem, and suggestions for fixing it."
+  },
+  "loading-pose-model" : "Loading pose<br>estimation model...",
+  "share": {
+    "title": "All clear!",
+    "body": "The spacecraft<br> has reached a safe area.<br>Nice work.",
+    "share-text": "Share the experience",
+    "share-link": "g.co/PoseShield",
+    "share-url": "https://g.co/PoseShield",
+    "web-text": "I blocked <score> asteroids and got ranked as <rank> playing Pose Shield! Check it out at g.co/PoseShield", 
+    "tweet-hashtag": "TFPoseShield,TensorFlow"
+  },
+  "asteroids-blocked": "asteroids blocked",
+  "ranks": {
+    "level": "level",
+    "first": "Expert",
+    "second": "Pro",
+    "third": "Apprentice",
+    "fourth": "Novice"
+  },
+  "links":{
+    "tensorflow": {
+      "link": "TensorFlow.js",
+      "url": "https://www.tensorflow.org/js"
+    },
+    "posenet": {
+      "link": "PoseNet",
+      "url": "https://www.tensorflow.org/lite/models/pose_estimation/overview"
+    }
+  },
+  "gameplay-text":{
+    "tensorflow": "Tensorflow",
+    "tensorflowjs": "Tensorflow.js",
+    "posenet-model": "Posenet Model",
+    "fps-title": "fps"
+  }
+}
